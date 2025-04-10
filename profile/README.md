@@ -1,4 +1,4 @@
-<h1>Scite Ai Review (Test 2025): betrouwbare AI-tool of overbodige hype?</h1>
+<h1>Scite Ai Review en Test : betrouwbare AI-tool of overbodige hype?</h1>
 <p><strong>Scite Ai Gebruiker</strong> | <time datetime="2025-04-08">April 10, 2025</time></p>
 
 <img src="https://i.ytimg.com/vi/TY7HSWzyAxE/maxresdefault.jpg"
