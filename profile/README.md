@@ -6,6 +6,9 @@
   width="750"
   height="450"
 />
+<a target="_blank" href="https://scite.ai/?via=new">Klik hier voor gratis toegang !</a>
+
+<a target="_blank" href="https://scite.ai/?via=new">Klik hier voor gratis toegang !</a>
 
 <h2>Wat is Scite Ai precies?</h2>
 <p>Scite Ai is een innovatief digitaal hulpmiddel dat academische publicaties slimmer analyseert. Deze tool maakt gebruik van geavanceerde algoritmen om te onderzoeken hoe wetenschappelijke artikelen door andere publicaties worden geciteerd. In tegenstelling tot traditionele citatie-indexen geeft Scite Ai niet alleen kwantitatieve informatie, maar ook kwalitatieve context rond elke citatie. Zo kun je snel inzicht krijgen in hoe betrouwbaar, positief of negatief het onderzoek door collega's wordt beoordeeld.</p>
@@ -13,8 +16,12 @@
 <h2>Belangrijkste functies van Scite Ai</h2>
 <p>Scite Ai biedt unieke functies om academici en onderzoekers efficiënter inzicht te geven in relevante literatuur en citaties. Hieronder bespreken we enkele van de meest opvallende kenmerken.</p>
 
+<a target="_blank" href="https://scite.ai/?via=new">Klik hier voor gratis toegang !</a>
+
 <h3>Intelligente citatie-analyse en verificatie</h3>
 <p>Een krachtig onderdeel van Scite Ai is de recente technologie achter de intelligente analyse en verificatie van citaties. In plaats van simpelweg aantallen te tonen, classificeert Scite Ai citaties in categorieën zoals ondersteunend, tegenstrijdig of neutraal. Uit interne data blijkt dat circa 35% van alle geciteerde publicaties minstens één tegengestelde citatie ontvangt. Hiermee krijg je direct een objectiever beeld van het wetenschappelijke debat rond specifieke onderzoeken.</p>
+
+<a target="_blank" href="https://scite.ai/?via=new">Klik hier voor gratis toegang !</a>
 
 <h3>Integratie met populaire academische platformen</h3>
 <p>Eén van de voordelen van Scite Ai is de eenvoudige koppeling met populaire academische databases en platformen. Dit betekent dat je als onderzoeker niet voortdurend hoeft te schakelen tussen verschillende applicaties. Onder meer de volgende platformen ondersteunen integratie met Scite Ai:</p>
@@ -25,6 +32,8 @@
     <li>Mendeley</li>
 </ul>
 <p>Deze koppeling maakt directe validatie van bronnen sneller en gemakkelijker, wat je veel tijd bespaart bij het analyseren van teksten en referenties.</p>
+
+<a target="_blank" href="https://scite.ai/?via=new">Klik hier voor gratis toegang !</a>
 
 <h3>Gebruiksvriendelijke interface en dashboard</h3>
 <p>Scite Ai biedt een duidelijke en intuïtieve gebruiksomgeving die geschikt is voor onderzoekers van ieder niveau. Uit feedback blijkt dat circa 80% van de gebruikers zeer tevreden is over het gebruiksgemak van het dashboard. Vanuit één centrale plek krijg je gedetailleerd inzicht in de relevantie van bronnen en hun wetenschappelijke implicaties. Dankzij de overzichtelijke visuele weergaven en handige filters verlies je minder tijd aan handmatige analyse en kun je direct de inhoudelijke discussie duiden.</p>
