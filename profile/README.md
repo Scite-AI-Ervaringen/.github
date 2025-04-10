@@ -6,6 +6,7 @@
   width="750"
   height="450"
 />
+
 <a target="_blank" href="https://scite.ai/?via=new">Klik hier voor gratis toegang !</a>
 
 <a target="_blank" href="https://scite.ai/?via=new">Klik hier voor gratis toegang !</a>
